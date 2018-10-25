@@ -10,3 +10,7 @@ If the given number is 288791, we convert that to [2,8,8,7,9,1] and create a bat
 Generator output after just 1 epoch of training,
 
 ![alt text](https://github.com/Murali81/Deconvolution-for-Num-2-Image/blob/master/images_vae/vae_generated_image_epoch_1.png)
+
+# References
+
+[1] <a href="https://datascience.stackexchange.com/questions/6107/what-are-deconvolutional-layers"> What is Deconvolution ?</a>
